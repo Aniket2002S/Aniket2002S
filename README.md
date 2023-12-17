@@ -1,42 +1,75 @@
-![logo](https://github.com/Aniket2002S/Aniket2002S/blob/main/github-header-image%20(2).png)
-<h1 align="center">Hi 👋, I'm Aniket Sonawane</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+## Hi, I’m Aniket Sonawane <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket2002s&label=Profile%20views&color=0e75b6&style=flat" alt="aniket2002s" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aniket2002s" target="blank"><img src="https://img.shields.io/twitter/follow/aniket2002s?logo=twitter&style=for-the-badge" alt="aniket2002s" /></a> </p>
-
-- 🔭 I’m currently working on [Food Ordering System](https://github.com/Aniket2002S/food-ordering-system)
-
-- 🌱 I’m currently learning **React and Next JS**
-
-- 👯 I’m looking to collaborate on **React Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Aniket2002S](https://github.com/Aniket2002S)
-
-- 📫 How to reach me **aniketsonawane4590@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jingqq-EZtHaHP2y3QP8WKgq1_a-aAvF/view?usp=sharing](https://drive.google.com/file/d/1jingqq-EZtHaHP2y3QP8WKgq1_a-aAvF/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aniket2002s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket2002s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniketsonawane2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketsonawane2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aniketsonawane6109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniketsonawane6109/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<aniketsonawane6109>/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<aniketsonawane6109>/" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer;I'm+a++Computer+Science+Undergraduate" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://aniket2002s.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>
+  <a href="mailto:aniketsonawane4590@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aniketsonawane2002" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/aniket2002s" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aniket2002s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aniket2002s" /></a></p><br><br>
+<p >A passionate full-stack developer from India, currently focusing on React and Next.js. I love collaborating on React projects and enjoy programming humorously.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket2002s&show_icons=true&locale=en&layout=compact" alt="aniket2002s" /></p>
+## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket2002s&show_icons=true&locale=en" alt="aniket2002s" /></p>
+<p align="center">
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <!-- Add other tech stack badges as needed -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket2002s&" alt="aniket2002s" /></p>
+## Projects
+
+<a href="https://github.com/Aniket2002S/food-ordering-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket2002S&repo=food-ordering-system&theme=highcontrast" />
+</a>
+
+<!-- Add other project badges as needed -->
+
+## GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
+
+<details>
+  <summary><b>💻Languages</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket2002S&show_icons=true&locale=en&layout=compact&theme=merko" alt="Aniket2002S" height="192px"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aniket's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aniket2002S&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  <a href="https://github.com/Aniket2002S"><img alt="Aniket Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket2002S&theme=merko" /></a>
+  <br/>
+</details>
+
+<br/>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aniket2002S&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+</p>
