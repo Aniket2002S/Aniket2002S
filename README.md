@@ -91,32 +91,16 @@
 
 <!-- Add other project badges as needed -->
 
-## GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px>
 
-<details>
-  <summary><b>💻Languages</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket2002S&show_icons=true&locale=en&layout=compact&theme=merko" alt="Aniket2002S" height="192px"/>
-  </p>
-</details>
+## 🔎 Github Stats
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=vidhanshu&theme=react&hide_border=true" width = 400>
+</p>
 
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aniket's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aniket2002S&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
-  </p>
-</details>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/Aniket2002S"><img alt="Aniket Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket2002S&theme=merko" /></a>
-  <br/>
-</details>
-
-<br/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=vidhanshu&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="vidhanshu' profile views" />
+</p>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aniket2002S&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
