@@ -94,12 +94,12 @@
 
 ## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=vidhanshu&theme=react&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Aniket2002S&theme=react&hide_border=true" width = 400>
 </p>
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vidhanshu&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="vidhanshu' profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aniket2002S&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Aniket2002S' profile views" />
 </p>
 
 ## 🏆GitHub Trophies
