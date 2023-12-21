@@ -7,16 +7,16 @@
 <p align="center">
   <a href="https://aniket2002s.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:aniketsonawane4590@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aniketsonawane2002" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/aniket2002s" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 
 <p >A passionate full-stack developer from India, currently focusing on React and Next.js. I love collaborating on React projects and enjoy programming humorously.</p>
