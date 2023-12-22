@@ -83,11 +83,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-## Projects
 
-<a href="https://github.com/Aniket2002S/food-ordering-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniket2002S&repo=food-ordering-system&theme=highcontrast" />
-</a>
 
 <!-- Add other project badges as needed -->
 
